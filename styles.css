@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('r.png');
+  text-align: center;
+}
+
+.gift-box {
+  margin-top: 200px;
+}
+
+.gift-box h1 {
+  font-size: 30px;
+}
+
+button {
+  padding: 15px 25px;
+  margin:  10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.rose-page {
+  display: none;
+}
+
+.big-rose {
+  width: 400px;
+  height: 400px;
+  background-image: url('Sunflower4.png');
+  background-size: cover;
+  margin: 50px auto;
+}
